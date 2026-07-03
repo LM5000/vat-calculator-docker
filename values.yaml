@@ -1,2 +1,2 @@
 image: lm5000/vat:<+pipeline.sequenceId>
-replicas: 1
+replicas: 5

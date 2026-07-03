@@ -1,6 +1,6 @@
 .field{
   width: 300px;
-  padding-bottom: 20px;
+  padding-bottom: 40px;
 }
 
 .colour-border{
@@ -14,5 +14,5 @@
 
 body{
   padding: 10px;
-  background-color: rgb(19, 68, 228);
+  background-color: rgb(19, 228, 19);
 }
